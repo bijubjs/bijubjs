@@ -6,7 +6,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning R, Python, and Matlab.
 - 💞️ I’m looking to collaborate on product development
-- 📫 You can learn more about me and my work in my website([https://bijeshmishra.wordpress.com/]).
+- 📫 You can learn more about me and my work in https://bijeshmishra.wordpress.com/.
 
 
 <!---
