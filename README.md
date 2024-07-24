@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="[X/Twitter](https://x.com/bijubjs)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bijubjs" height="30" width="40" /></a>
 <a href="[LinkedIn](https://www.linkedin.com/in/bijubjs/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bijubjs" height="30" width="40" /></a>
-<a href="[Google Scholar](https://scholar.google.com/citations?user=v-5550IAAAAJ&hl=en)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-scholar.svg" alt="bijubjs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
