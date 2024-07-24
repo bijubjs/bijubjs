@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 - Hello! 👋 👋 👋
 
-- I’m a resource economist focusing on sustainability, climate change, and policy development.
+- I’m a resource economist focusing on sustainability, climate change, and policy research.
 
 - I am further interested in developmental and political economics.
 
