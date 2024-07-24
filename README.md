@@ -1,7 +1,7 @@
-- Hi  👋  👋  👋
-- 👀 I am an applied economist. 
-- 🌱 I often use R, Python, and Stata for data analysis.
+- Hi  👋  👋  👋 **!** I am an applied economist. 
 - 📫 Visit [my website](https://bijeshmishra.wordpress.com/).
+
+- 🌱 I often use R, Python, and Stata for data analysis.
 
 <!---
 biju9bjs/biju9bjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
