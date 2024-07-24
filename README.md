@@ -1,4 +1,4 @@
-- [Hi](https://bijeshmishra.wordpress.com/) 👋 👋 👋
+- [Hello!](https://bijeshmishra.wordpress.com/) 👋 👋 👋
 
 - I’m a resource economist focusing on sustainability, climate change, resource management, and policy development.
 
