@@ -1,5 +1,7 @@
-- Hi  👋  👋  👋 **!** I am an applied economist and [my website](https://bijeshmishra.wordpress.com/).
-
+- [Hi  👋  👋  👋 **!**](https://bijeshmishra.wordpress.com/)
+- I’m a resource economist focusing on sustainability, climate change, resource management, and policy development. I am further interested in developmental and political economics.
+- I am an applied economist.
+- 
 - I use R, Python, and Stata for data analysis.
 
 <!---
