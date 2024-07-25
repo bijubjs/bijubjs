@@ -2,13 +2,13 @@
 biju9bjs/biju9bjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- Hello! 👋 👋 👋
+Hello! 👋 👋 👋
 
-- I’m a resource economist focusing on sustainability, climate change, and policy research.
+I’m a resource economist focusing on sustainability, climate change, and policy research.
 
-- I am further interested in developmental and political economics.
+I am further interested in developmental and political economics.
 
-- Website: https://bijeshmishra.wordpress.com/
+Website: https://bijeshmishra.wordpress.com/
   
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
