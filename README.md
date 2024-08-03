@@ -8,7 +8,7 @@ I’m a resource economist focusing on sustainability, climate change, and polic
 
 I am further interested in developmental and political economics.
 
-## Published Papers and Regular Updates
+## Published Papers and Updates
 You can find my published papers [here](https://github.com/bijubjs/bijubjs/tree/main/1.%20Published%20Papers) and regular updates on my [website](https://bijeshmishra.wordpress.com/) and [bijubjs.github.io](https://bijubjs.github.io/)
 
 ## Media Featured
