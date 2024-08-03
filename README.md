@@ -12,7 +12,7 @@ I am further interested in developmental and political economics.
 You can find my published papers [here](https://github.com/bijubjs/bijubjs/tree/main/1.%20Published%20Papers) and regular updates on my [website](https://bijeshmishra.wordpress.com/)
 
 ## Media Featured
-I have been featured in various [media outlets](https://github.com/bijubjs/bijubjs/tree/main/2.%20Media%20Featured) and [acknoweldged](https://github.com/bijubjs/bijubjs/tree/main/3.%20Acknowledged) for my leadership and volunteer works.
+I have been featured in various [media outlets](https://github.com/bijubjs/bijubjs/tree/main/2.%20Media%20Featured) and [acknoweldged](https://github.com/bijubjs/bijubjs/tree/main/3.%20Acknowledged) for my leadership and volunteer work.
 
 <a href='https://codespaces.new/bijubjs/bijubjs?quickstart=1'><img align="right" src='https://github.com/codespaces/badge.svg' alt='Open in GitHub Codespaces' style='max-width: 100%;'></a>
 
