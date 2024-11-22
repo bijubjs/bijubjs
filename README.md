@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Hello! 👋 👋 👋
-I’m a applied economist. My research are focused on sustainability, climate change, and policymaking.
+I’m an applied economist. My research is focused on renewable energy, sustainability, climate change, and policymaking.
 
 I am further interested in developmental and political economics.
 
