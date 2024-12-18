@@ -4,14 +4,19 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Hello! 👋 👋 👋
-I’m an applied economist. My research focuses on agriculture, energy, sustainability, climate change, and policy. 
+
+I’m an applied economist. 
+
+My research focuses on agriculture, energy, sustainability, climate change, and policy. 
 
 I am also interested in developmental and political economics.
 
 I use econometrics, geospatial analysis, social surveys, and machine learning.
 
 ## Published Papers and Updates
-You can find my published papers [here](https://github.com/bijubjs/bijubjs/tree/main/1.%20Published%20Papers) and regular updates on my [website](https://bijeshmishra.wordpress.com/).
+You can find my published papers [here](https://github.com/bijubjs/bijubjs/tree/main/1.%20Published%20Papers) and [Google Scholar](https://scholar.google.com/citations?user=v-5550IAAAAJ&hl=en)
+
+I provide regular research updates on my [website](https://bijeshmishra.wordpress.com/).
 
 ## Media Featured
 I have been featured in various [media outlets](https://github.com/bijubjs/bijubjs/tree/main/2.%20Media%20Featured) and [acknoweldged](https://github.com/bijubjs/bijubjs/tree/main/3.%20Acknowledged) for my leadership and volunteer work.
