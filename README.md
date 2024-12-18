@@ -14,12 +14,7 @@ I am also interested in developmental and political economics.
 I use econometrics, geospatial analysis, social surveys, and machine learning.
 
 ## Published Papers and Updates
-You can find my published papers [here](https://github.com/bijubjs/bijubjs/tree/main/1.%20Published%20Papers) and [Google Scholar](https://scholar.google.com/citations?user=v-5550IAAAAJ&hl=en)
-
-<a href="https://scholar.google.com/citations?user=v-5550IAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
-  Open Google Scholar Profile
-</a>
-
+You can find my published papers [here](https://github.com/bijubjs/bijubjs/tree/main/1.%20Published%20Papers) and [Google Scholar](https://scholar.google.com/citations?user=v-5550IAAAAJ&hl=en) *(Note: Right-click to open link in a new tab)*
 
 I provide regular research updates on my [website](https://bijeshmishra.wordpress.com/).
 
